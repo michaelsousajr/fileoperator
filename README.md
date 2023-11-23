@@ -4,7 +4,7 @@
 
 ## About
 
-`fileoperator` is an all-in-one Python utility package designed to simplify and streamline a wide range of file operations. This package offers comprehensive solutions for file handling, including encryption, compression, file manipulation, and much more. Whether you're dealing with legacy code or need an efficient way to handle complex file operations, `fileops` is your go-to library.
+`fileoperator` is an all-in-one Python utility package designed to simplify and streamline a wide range of file operations. This package offers comprehensive solutions for file handling, including encryption, compression, file manipulation, and much more. Whether you're dealing with legacy code or need an efficient way to handle complex file operations, `fileoperator` is your go-to library.
 
 ## Features
 
@@ -17,7 +17,7 @@
 ## Installation
 
 To install fileoperator, simply run the following command in your terminal:
-`pip install fileops` 
+`pip install fileoperator` 
 
 ## Usage
 
