@@ -1,0 +1,16 @@
+LICENSE.txt
+README.md
+setup.py
+fileops/__init__.py
+fileops/compression.py
+fileops/encryption.py
+fileops/file_operations.py
+fileops/hash.py
+fileops.egg-info/PKG-INFO
+fileops.egg-info/SOURCES.txt
+fileops.egg-info/dependency_links.txt
+fileops.egg-info/requires.txt
+fileops.egg-info/top_level.txt
+tests/test_encryption.py
+tests/test_file_operations.py
+tests/test_hash.py
