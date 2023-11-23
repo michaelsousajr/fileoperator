@@ -1,4 +1,4 @@
-def hash_file(file_path, hash_algo="sha256"):
+def get_hash(file_path, hash_algo="sha256"):
     """
     Computes hash of a file using the specified hash algorithm
 

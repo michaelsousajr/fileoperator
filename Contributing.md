@@ -1,8 +1,8 @@
-# Contributing to fileops
+# Contributing to fileoperator
 
 ## Introduction
 
-Thank you for your interest in contributing to fileops! We welcome contributions from everyone and value your efforts to improve and expand this utility package.
+Thank you for your interest in contributing to fileoperator! We welcome contributions from everyone and value your efforts to improve and expand this utility package.
 
 ## How to Contribute
 
@@ -29,4 +29,4 @@ Thank you for your interest in contributing to fileops! We welcome contributions
 - Update documentation if necessary.
 - Respect the project's license and contribution policies.
 
-Thank you for contributing to fileops!
+Thank you for contributing to fileoperator!

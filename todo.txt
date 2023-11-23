@@ -1,7 +1,0 @@
-Todo: 
-remake github
-update readme
-upload package doing:  twine upload dist/*
-do testcases: file_ops, hash, cry, com
-review code: optimize, documentation 
-

@@ -1,4 +1,4 @@
-from .hash import hash_file, verify_file_checksum
+from .hash import get_hash, verify_file_checksum
 from .encryption import encrypt_file, decrypt_file, get_key
 from .compression import (
     compress_file,
