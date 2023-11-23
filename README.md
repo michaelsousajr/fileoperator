@@ -35,6 +35,10 @@ from fileoperator import compress_file
 
 compress_file('path/to/your/file.txt','path/to/compressed/file.zip')
 ```
+
+### Full list of functions
+View full list of functions in the tests folder
+
 ## Contributing
 Contributions to fileoperator are welcome! If you have a suggestion or improvement, feel free to fork the repository and submit a pull request. Check Contributing.md for more details.
 
