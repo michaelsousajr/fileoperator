@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="fileoperator",
-    version="0.1.0",
+    version="0.1.1",
     author="Michael Sousa",
     author_email="ms22dq@fsu.com",
     description="An all-in-one utility package for file operations.",
