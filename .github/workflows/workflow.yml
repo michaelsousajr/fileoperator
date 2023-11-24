@@ -36,10 +36,11 @@ jobs:
       run: |
         pip install flake8
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127
-
+    
     # Running tests.
     - name: Test with pytest
       run: |
+        pip install .
         pip install pytest
         pytest
 
