@@ -1,4 +1,4 @@
-# fileoperator: Python File Operations Package
+# fileoperator: Python File Operations Library
 
 ![logo](./public/logo.png)
 
